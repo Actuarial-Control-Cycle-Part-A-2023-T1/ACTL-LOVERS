@@ -1,5 +1,8 @@
 # Actuarial Theory and Practice A @ UNSW
-Note that the full commit history can be found in the old repository here: https://github.com/WinsonLui/actllover.github.io
+Note that the full commit history can be found in the old repository here: 
+
+https://github.com/WinsonLui/actllover.github.io
+
 All content was later transferred from the old repository to the new repository.
 
 _Social insurance program design for catastrophic climate-related displacement risk management_
