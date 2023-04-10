@@ -46,17 +46,17 @@ All citizens of Storslysia may file a claim under the proposed program given the
 
 As mentioned in Section 1.1, our proposed program provides coverage for both voluntary and involuntary displacement on the basis that costs have historically been higher for involuntary relocation. The amount of coverage offered to the claimant will vary depending on factors such as property value and geographical risk, with a limit of one claimant per household affected.
 Our program provides the following benefits:
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz1.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz1.png?raw=true)
 
 
 #### 2.2.1 Voluntary Relocation
 We have determined the primary cost associated with voluntary relocation to be accommodation search/construction. Under our proposed program, successful claimants will receive a portion of their current property value based on the percentage reduction in risk exposure from relocating from region A to region B as a lumpsum. By basing the lumpsum benefit on the reduction in risk exposure, we aim to mitigate displacement risk and incentivise citizens to relocate to safer regions.  
 
 The value of the payout for this benefit is calculated as follows:
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz2.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz2.png?raw=true)
 
 The subsidised amount, expressed as a percentage of current property value under the voluntary relocation scheme is outlined in table below:
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz3.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz3.png?raw=true)
 
 
 #### 2.2.2 Involuntary Displacement
@@ -83,23 +83,23 @@ In contrast, long term monitoring is essential for determining the effectiveness
 ### 3.1 Projected Costs
 
 The simulation results for costs under program associated with voluntary relocation is as follows: 
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz4.png)
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz5.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz4.png?raw=true)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz5.png?raw=true)
 The simulation results for costs under program associated with involuntary relocation is as follows: 
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz6.png)
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz7.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz6.png?raw=true)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz7.png?raw=true)
 As shown in the tables above, costs associated with voluntary relocation are significantly lower and less volatile in comparison to involuntary displacement costs. 
 
 ### 3.2 Projected Costs without Program
 
 The simulated projected cost associated with hazardous climate-related events for Storslysia’s citizens without the introduction of the program is summarised in the table below. 
-![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz8.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz8.png?raw=true)
 We can see that projected costs are significantly lower for voluntary relocation under the proposed program, particularly in the long term as we incentivise safer relocations to reduce risk. Costs associated with involuntary displacement are partially subsidised under the program and are therefore also reduced significantly.
 
 ### 3.3 Capital Requirements
 
 We used the 99.5th percentile of program costs cash flows under the worst-case scenario (very high emissions) to calculate the required economic capital for program to remain solvent. As outlined in the table below, we require a cash reserve of _Ꝕ 2,223,747,478.12_ for this program. 
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz9.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz9.png?raw=true)
 
 ## 4 Assumptions
 
@@ -114,13 +114,13 @@ When projecting costs for temporary accommodation, we have assumed a fixed perio
 
 #### 4.1.2 Voluntary Model
 We have used property value as a proxy for socio-economic status within our models under the assumption that all residents will spend a fixed proportion of income on property. We have defined geographic risk from most risky to least risky as follows:
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz10.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz10.png?raw=true)
 
 These rankings form the basis of our movements frequency assumptions between regions along with population density, average regional income, living expenses and ease of entry into the region. For simplicity of the model and due to the limited relevant data available, we have assumed these to be the only factors which affects claimants’ decisions to voluntarily relocate.
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz11.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz11.png?raw=true)
 
 We have assumed a fixed relocation rate (outlined in the table above) and total number of households within Storslysia over the course of the social insurance program. As such, we expect the number of households by regions to evolve following a Markov process. 
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz12.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz12.png?raw=true)
 
 Property values for each region were assumed to follow a _Uniform distribution_ within each bin, with the mean and variance of the estimated distributions computed for each region based on data provided by Storslysia. As the number of households relocating between regions was too large, simulating the property value of every movement would be computationally heavy and time-consuming. As such, the overall property value movement was assumed to follow a _Normal distribution_ according to the Central Limit Theorem, with parameters equal to the previously calculated aggregate mean and variance respectively. 
 
@@ -130,21 +130,21 @@ Property values for each region were assumed to follow a _Uniform distribution_ 
 
 We have implemented the Risk Categorisation and Definition (RCD) tool to identify 12 key risks associated with this policy. Below, we summarised these risks and potential mitigation techniques to be implemented.
 
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz14.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz14.png?raw=true)
 ### 5.2 Sensitivity Analyses
 
 Given the level of uncertainty surrounding climate-related events, we have conducted sensitivity analyses on the proposed program to determine the financial impact of the difference between actual and expected costs under favourable and unfavourable scenarios. Our baseline projected costs outlined in Section 3.1 assumes that carbon emission levels will be low over the next decade. The table below summarises the projected costs (IUD) for the program for varying levels of carbon emission.
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz13.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz13.png?raw=true)
 
 As expected, the short-term costs of our program have relatively low volatility which then increases in the long term in response to global warming. We can see that as emission levels increase, experience becomes more unfavourable in the long term as more catastrophic climate-related events increase in prevalence. Regardless, projected costs still remain below 10% of GDP with 90% certainty under each scenario tested. 
 
 We have also tested for the impact of a healthy and recessive economic environment below. During a healthy economic environment _(GDP growth = 5% and Inflation rate = 2%)_, the inflation rate is maintained at a relatively low level and Storslysia’s GDP is experiencing healthy growth, driving up the confidence level. 
 
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Graph1.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Graph1.png?raw=true)
 
 In contrast, under economic recessions _(GDP growth = 0% and Inflation rate = 10%)_, the inflationary environment will push the costs up, resulting in a lower confidence level, especially in the long term.  
 
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Graph2.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Graph2.png?raw=true)
 
 ### 5.3 Degrees of Certainty
 
@@ -157,10 +157,10 @@ We have set the fixed portions to be 70% for voluntary costs and 60% for involun
 ### 6.1 Data Sources
 
 The following table summarises the data we have received from the client, Storslysia:
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Virz15.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Virz15.png?raw=true)
 
 ### 6.2 Data Limitations
-![](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/30787e4fb05fdb265d33be211b4df345dec9b4f0/Graphs/Viz16.png)
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz16.png?raw=true)
 
 ---
 
