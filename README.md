@@ -165,13 +165,13 @@ The following table summarises the data we have received from the client, Storsl
 ![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz16.png?raw=true)
 
 ---
-![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/image.png)
+![Meme](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/image.png?raw=true)
 
-![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme1)
+![Meme](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme1?raw=true)
 
-![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme2)
+![Meme](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme2?raw=true)
 
-![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme3)
+![Meme](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme3?raw=true)
 
-![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme4)
+![Meme](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme4?raw=true)
 
