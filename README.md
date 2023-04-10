@@ -66,6 +66,8 @@ Lump-sum payments for accommodation search/construction is based on property dam
 
 The insurance program also provides coverage over temporary housing for up to 6 months whilst displaced claimants search for a new accommodation. These monthly benefit payments will vary based on the size of the household and geographic location and is calculated as follows:
 
+![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz3.5.png?raw=true)
+
 The temporary housing cost used in the calculation above is based on the median price provided within the client’s demographic data. Further, coverage under the proposed program is limited to a fixed percentage of predicted involuntary displacement costs, which has been set to 60% to ensure displacement costs fall below 10% of GDP each year. 
 
 ### 2.3 Monitoring and Performance Evaluation
