@@ -163,13 +163,13 @@ The following table summarises the data we have received from the client, Storsl
 ![Image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Graphs/Viz16.png?raw=true)
 
 ---
+![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/image.png)
 
-![](https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/image.png)
+![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme1)
 
-![](https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme1)
+![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme2)
 
-![](https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme2)
+![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme3)
 
-![](https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme3)
+![alt text](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/ACTL-LOVERS/blob/main/Memes/meme4)
 
-![](https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme4)
